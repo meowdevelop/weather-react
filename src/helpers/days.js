@@ -1,6 +1,6 @@
 const days = [          
     {
-    date: 1581293419000,    
+    date: 1581294492000,    
     cloudiness: 'Ясно',
     temperatureNight: -15,
     dayTemperature: -10,
@@ -9,7 +9,7 @@ const days = [
     },
     
     {
-    date: 1581111279000,
+    date: 1581380892000,
     cloudiness: 'Пасмурно',
     temperatureNight: -14,
     dayTemperature: -7,
@@ -18,7 +18,7 @@ const days = [
     },
     
     {
-    date: 1581379819000,
+    date: 1581467292000,
     cloudiness: 'Ясно',
     temperatureNight: -17,
     dayTemperature: -10,
@@ -27,7 +27,7 @@ const days = [
     },
     
     {
-    date: 1581466219000,
+    date: 1581553692000,
     cloudiness: 'Пасмурно',
     temperatureNight: -16,
     dayTemperature: -11,
@@ -36,7 +36,7 @@ const days = [
     },
     
     {
-    date: 1581552619000,    
+    date: 1581640092000,    
     cloudiness: 'Ясно',
     temperatureNight: -15,
     dayTemperature: -10,
@@ -45,7 +45,7 @@ const days = [
     },
     
     {
-    date: 1581639019000,
+    date: 1581726492000,
     cloudiness: 'Пасмурно',
     temperatureNight: -14,
     dayTemperature: -7,
@@ -54,7 +54,7 @@ const days = [
     },
     
     {
-    date: 1581725419000,
+    date: 1581812892000,
     cloudiness: 'Пасмурно',
     temperatureNight: -17,
     dayTemperature: -10,
@@ -63,7 +63,7 @@ const days = [
     },
     
     {
-    date: 1581811819000,
+    date: 1581899292000,
     cloudiness: 'Пасмурно',
     temperatureNight: -16,
     dayTemperature: -11,
